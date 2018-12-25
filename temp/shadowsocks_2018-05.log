@@ -1,0 +1,176 @@
+[2018-05-07 02:04:55] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2018-05-07 02:05:02] ShadowsocksR started on port 1080
+[2018-05-07 02:05:02] [Info] Direct connect mmstat.ucweb.com:443
+[2018-05-07 02:05:02] [Info] Direct connect mmstat.ucweb.com:443
+[2018-05-07 02:05:02] [Info] Direct connect mmstat.ucweb.com:443
+[2018-05-07 02:05:02] [Info] Direct connect mmstat.ucweb.com:443
+[2018-05-07 02:05:02] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:02] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:02] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:02] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:02] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:03] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:03] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:03] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:03] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:03] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:03] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:05:03] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:03] [Info] Connect www.google.com:443
+[2018-05-07 02:05:03] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:03] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:03] [Info] Connect www.google.com:443
+[2018-05-07 02:05:03] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:05:03] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:03] [Info] Connect www.google.com:443
+[2018-05-07 02:05:03] [Info] Disconnect www.google.com:443
+[2018-05-07 02:05:04] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:04] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:04] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:04] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:04] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:04] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:05] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:05] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:05] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:05] [Info] Connect www.google.com:443
+[2018-05-07 02:05:05] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:05] [Info] Connect www.google.com:443
+[2018-05-07 02:05:05] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:05] [Info] Connect www.google.com:443
+[2018-05-07 02:05:05] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-07 02:05:05] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:05] [Info] Disconnect www.google.com:443
+[2018-05-07 02:05:06] [Info] Connect 172.104.65.11:8888
+[2018-05-07 02:05:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:06] [Info] Connect 172.104.65.11:8888
+[2018-05-07 02:05:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:06] [Info] Connect 172.104.65.11:8888
+[2018-05-07 02:05:06] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-07 02:05:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:06] [Info] Disconnect 172.104.65.11:8888
+[2018-05-07 02:05:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:06] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:06] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:07] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-07 02:05:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:07] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:07] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:07] [Info] Connect raw.githubusercontent.com:443
+[2018-05-07 02:05:07] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:05:07] [Info] Disconnect raw.githubusercontent.com:443
+[2018-05-07 02:05:07] [Error] connect to update server error
+[2018-05-07 02:05:10] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:10] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:10] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:10] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:05:12] [Info] Connect play.google.com:443
+[2018-05-07 02:05:12] [Info] Connect play.google.com:443
+[2018-05-07 02:05:12] [Info] Connect play.google.com:443
+[2018-05-07 02:05:12] [Info] Disconnect play.google.com:443
+[2018-05-07 02:05:13] [Info] Connect va.tawk.to:443
+[2018-05-07 02:05:13] [Info] Connect va.tawk.to:443
+[2018-05-07 02:05:13] [Info] Connect va.tawk.to:443
+[2018-05-07 02:05:13] [Info] Disconnect va.tawk.to:443
+[2018-05-07 02:05:15] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:15] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:15] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:15] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:15] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:15] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:16] [Info] Connect play.google.com:443
+[2018-05-07 02:05:16] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:16] [Info] Connect play.google.com:443
+[2018-05-07 02:05:16] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:16] [Info] Connect www.google.com:443
+[2018-05-07 02:05:16] [Info] Connect play.google.com:443
+[2018-05-07 02:05:16] [Info] Connect www.google.com:443
+[2018-05-07 02:05:16] [Info] Disconnect play.google.com:443
+[2018-05-07 02:05:16] [Info] Connect www.google.com:443
+[2018-05-07 02:05:16] [Info] Disconnect www.google.com:443
+[2018-05-07 02:05:19] [Info] Direct connect browser.cloud.uc.cn:80
+[2018-05-07 02:05:19] [Info] Direct connect browser.cloud.uc.cn:80
+[2018-05-07 02:05:19] [Info] Direct connect browser.cloud.uc.cn:80
+[2018-05-07 02:05:19] [Info] Direct connect browser.cloud.uc.cn:80
+[2018-05-07 02:05:19] [Info] Direct connect browser.cloud.uc.cn:80
+[2018-05-07 02:05:19] [Info] Direct connect browser.cloud.uc.cn:80
+[2018-05-07 02:05:21] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:21] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:21] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:21] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:05:23] [Info] Connect 91.108.56.144:80
+[2018-05-07 02:05:23] [Info] Connect 91.108.56.144:80
+[2018-05-07 02:05:23] [Info] Connect 91.108.56.144:80
+[2018-05-07 02:05:24] [Info] Disconnect 91.108.56.144:80
+[2018-05-07 02:05:26] [Info] Direct connect wp.mail.qq.com:443
+[2018-05-07 02:05:26] [Info] Direct connect 127.0.0.1:1080
+[2018-05-07 02:05:32] [Info] Connect play.google.com:443
+[2018-05-07 02:05:32] [Info] Connect play.google.com:443
+[2018-05-07 02:05:32] [Info] Connect play.google.com:443
+[2018-05-07 02:05:32] [Info] Disconnect play.google.com:443
+[2018-05-07 02:05:33] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:34] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:34] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:34] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:05:37] [Info] Connect 91.108.56.144:80
+[2018-05-07 02:05:37] [Info] Connect 91.108.56.144:80
+[2018-05-07 02:05:37] [Info] Connect 91.108.56.144:80
+[2018-05-07 02:05:37] [Info] Disconnect 91.108.56.144:80
+[2018-05-07 02:05:40] [Info] Connect 172.104.65.11:8888
+[2018-05-07 02:05:40] [Info] Connect 172.104.65.11:8888
+[2018-05-07 02:05:40] [Info] Connect 172.104.65.11:8888
+[2018-05-07 02:05:40] [Info] Disconnect 172.104.65.11:8888
+[2018-05-07 02:05:42] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:42] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:42] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:42] [Info] Disconnect clients6.google.com:443
+[2018-05-07 02:05:43] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:43] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:43] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:43] [Info] Disconnect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Connect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Disconnect clients6.google.com:443
+[2018-05-07 02:05:45] [Info] Disconnect clients6.google.com:443
+[2018-05-07 02:05:46] [Info] Connect hangouts.google.com:443
+[2018-05-07 02:05:46] [Info] Connect hangouts.google.com:443
+[2018-05-07 02:05:46] [Info] Connect hangouts.google.com:443
+[2018-05-07 02:05:46] [Info] Disconnect hangouts.google.com:443
+[2018-05-07 02:05:49] [Info] Direct connect mmstat.ucweb.com:443
+[2018-05-07 02:05:49] [Info] Direct connect mmstat.ucweb.com:443
+[2018-05-07 02:05:50] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:50] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:50] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:50] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:50] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:50] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:51] [Info] Connect 0.client-channel.google.com:443
+[2018-05-07 02:05:51] [Info] Disconnect 0.client-channel.google.com:443
+[2018-05-07 02:05:51] [Info] Connect www.google.com:443
+[2018-05-07 02:05:51] [Info] Connect www.google.com:443
+[2018-05-07 02:05:51] [Info] Connect www.google.com:443
+[2018-05-07 02:05:51] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:51] [Info] Disconnect www.google.com:443
+[2018-05-07 02:05:52] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:52] [Info] Connect clients1.google.com:443
+[2018-05-07 02:05:52] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:06:01] [Info] Connect mail.google.com:443
+[2018-05-07 02:06:01] [Info] Connect mail.google.com:443
+[2018-05-07 02:06:01] [Info] Connect mail.google.com:443
+[2018-05-07 02:06:01] [Info] Disconnect mail.google.com:443
+[2018-05-07 02:06:04] [Info] Connect clients1.google.com:443
+[2018-05-07 02:06:04] [Info] Connect clients1.google.com:443
+[2018-05-07 02:06:05] [Info] Connect clients1.google.com:443
+[2018-05-07 02:06:05] [Info] Disconnect clients1.google.com:443
+[2018-05-07 02:06:12] [Info] Connect play.google.com:443
+[2018-05-07 02:06:12] [Info] Connect play.google.com:443
+[2018-05-07 02:06:12] [Info] Connect play.google.com:443
+[2018-05-07 02:06:12] [Info] Disconnect play.google.com:443
+[2018-05-07 02:06:32] ShadowsocksR started on port 1080

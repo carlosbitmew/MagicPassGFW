@@ -1,0 +1,14 @@
+{
+	"video.ru2.cdn.euro.miaomi.win" : {
+		"totalUploadBytes" : 972743804,
+		"totalDownloadBytes" : 15962289887
+	},
+	"video.hk1.cdn.asia.miaomi.win" : {
+		"totalUploadBytes" : 1091742,
+		"totalDownloadBytes" : 1641723
+	},
+	"game.jp1.cdn.asia.miaomi.win" : {
+		"totalUploadBytes" : 1864805,
+		"totalDownloadBytes" : 6082946
+	}
+}
